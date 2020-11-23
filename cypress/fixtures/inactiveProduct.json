@@ -1,0 +1,63 @@
+[
+  {
+    "id": 222,
+    "title": "Patanjali Kachi Ghani Mustard Oil - 1 Lt",
+    "slug": "0fve-patanjali-kachi-ghani-mustard-oil-1-lt-nzyc",
+    "status": false,
+    "unit": [
+      {
+        "id": 333,
+        "unit_id": 1,
+        "product_id": 222,
+        "package_type_id": null,
+        "old_price": "250",
+        "new_price": "200",
+        "cost_price": null,
+        "selling_price": "250",
+        "marked_price": "250",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": null,
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 156,
+            "product_unit_price_id": 333,
+            "warehouse_id": 1,
+            "product_id": 222,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 15:34:46",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 126,
+        "icon": "5ec2227795b6d.jpg",
+        "title": "DAIRY",
+        "description": null,
+        "status": true,
+        "position": 3,
+        "parent_id": null,
+        "slug": "ap7b-dairy-60er",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-18 05:51:51",
+        "type": "category",
+        "pivot": {
+          "product_id": 222,
+          "product_category_id": 126
+        }
+      }
+    ]
+  }
+]

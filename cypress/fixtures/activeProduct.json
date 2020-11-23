@@ -1,0 +1,1832 @@
+[
+  {
+    "id": 250,
+    "title": "COOK SOYA OIL 1 LTR",
+    "slug": "d8zz-cook-soya-oil-1-ltr-cook-soya-oil-1-ltr1-0zzo",
+    "status": true,
+    "unit": [
+      {
+        "id": 361,
+        "unit_id": 9,
+        "product_id": 250,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "200",
+        "marked_price": "200.00",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 152,
+            "product_unit_price_id": 361,
+            "warehouse_id": 1,
+            "product_id": 250,
+            "quantity": 90,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-21 15:07:25"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 119,
+        "icon": null,
+        "title": "SOYA OIL",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 117,
+        "slug": "6ruq-soya-oil-2bei",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-15 11:11:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 250,
+          "product_category_id": 119
+        }
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "title": "test test test",
+    "slug": "cqgg-test-test-test-test121-ljn7",
+    "status": true,
+    "unit": [
+      {
+        "id": 362,
+        "unit_id": 6,
+        "product_id": 251,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "1212",
+        "marked_price": "1212",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 153,
+            "product_unit_price_id": 362,
+            "warehouse_id": 1,
+            "product_id": 251,
+            "quantity": 99,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 15:04:46"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 122,
+        "icon": "5ec2225c0b8d3.jpg",
+        "title": "HEALTH AND BEAUTY",
+        "description": null,
+        "status": false,
+        "position": 2,
+        "parent_id": null,
+        "slug": "nfju-health-and-beauty-miw2",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-10-28 18:10:13",
+        "type": "category",
+        "pivot": {
+          "product_id": 251,
+          "product_category_id": 122
+        }
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Garnier BB Cream Miracle Skin Perfector",
+    "slug": "ed0p-garnier-bb-cream-miracle-skin-perfector-ac441-yjzg",
+    "status": true,
+    "unit": [
+      {
+        "id": 341,
+        "unit_id": 16,
+        "product_id": 230,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "600",
+        "marked_price": "600.00",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 132,
+            "product_unit_price_id": 341,
+            "warehouse_id": 1,
+            "product_id": 230,
+            "quantity": 99,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 15:04:46"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 148,
+        "icon": null,
+        "title": "BB Cream",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 147,
+        "slug": "groj-bb-cream-tlrq",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-13 09:35:35",
+        "updated_at": "2020-08-13 09:35:35",
+        "type": "category",
+        "pivot": {
+          "product_id": 230,
+          "product_category_id": 148
+        }
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Apple",
+    "slug": "wkps-apple-cos8",
+    "status": true,
+    "unit": [
+      {
+        "id": 363,
+        "unit_id": 6,
+        "product_id": 252,
+        "package_type_id": null,
+        "old_price": "110",
+        "new_price": "100",
+        "cost_price": null,
+        "selling_price": "110",
+        "marked_price": "110",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": null,
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 157,
+            "product_unit_price_id": 363,
+            "warehouse_id": 1,
+            "product_id": 252,
+            "quantity": 101,
+            "always_available": false,
+            "created_at": "2020-10-13 16:24:17",
+            "updated_at": "2020-10-19 14:59:52"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 159,
+        "icon": null,
+        "title": "ACCESSORIES",
+        "description": null,
+        "status": true,
+        "position": 1,
+        "parent_id": null,
+        "slug": "odtj-accessories-eyxa",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-13 16:59:26",
+        "updated_at": "2020-10-19 15:27:04",
+        "type": "category",
+        "pivot": {
+          "product_id": 252,
+          "product_category_id": 159
+        }
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Orkide Sunflower Oil- 5 Ltrs",
+    "slug": "facg-test-nm6g",
+    "status": true,
+    "unit": [
+      {
+        "id": 332,
+        "unit_id": 1,
+        "product_id": 221,
+        "package_type_id": null,
+        "old_price": "200",
+        "new_price": "180",
+        "cost_price": null,
+        "selling_price": "400",
+        "marked_price": "400",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": null,
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 126,
+            "product_unit_price_id": 332,
+            "warehouse_id": 1,
+            "product_id": 221,
+            "quantity": 100,
+            "always_available": true,
+            "created_at": "2020-10-06 13:59:16",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 113,
+        "icon": "5ec22233695ca.jpg",
+        "title": "STAPLE",
+        "description": null,
+        "status": true,
+        "position": 1,
+        "parent_id": null,
+        "slug": "hw5d-staple-vzwg",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-18 05:50:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 221,
+          "product_category_id": 113
+        }
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Fortune Refined Sunflower Oil Pouch 1L",
+    "slug": "pict-fortune-refined-sunflower-oil-pouch-1l-ocoh",
+    "status": true,
+    "unit": [
+      {
+        "id": 334,
+        "unit_id": 1,
+        "product_id": 223,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "260",
+        "marked_price": "260.00",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": null,
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 154,
+            "product_unit_price_id": 334,
+            "warehouse_id": 1,
+            "product_id": 223,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 15:34:38",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 122,
+        "icon": "5ec2225c0b8d3.jpg",
+        "title": "HEALTH AND BEAUTY",
+        "description": null,
+        "status": false,
+        "position": 2,
+        "parent_id": null,
+        "slug": "nfju-health-and-beauty-miw2",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-10-28 18:10:13",
+        "type": "category",
+        "pivot": {
+          "product_id": 223,
+          "product_category_id": 122
+        }
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Meizan Sun Flower Oil 2L",
+    "slug": "0jeh-meizan-sun-flower-oil-2l-gkfx",
+    "status": true,
+    "unit": [
+      {
+        "id": 335,
+        "unit_id": 1,
+        "product_id": 224,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "570",
+        "marked_price": null,
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": null,
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 155,
+            "product_unit_price_id": 335,
+            "warehouse_id": 1,
+            "product_id": 224,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 15:34:42",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 122,
+        "icon": "5ec2225c0b8d3.jpg",
+        "title": "HEALTH AND BEAUTY",
+        "description": null,
+        "status": false,
+        "position": 2,
+        "parent_id": null,
+        "slug": "nfju-health-and-beauty-miw2",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-10-28 18:10:13",
+        "type": "category",
+        "pivot": {
+          "product_id": 224,
+          "product_category_id": 122
+        }
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Sunbeam Sunflower Oil 2L",
+    "slug": "fqon-sunbeam-sunflower-oil-2l-1317-voyd",
+    "status": true,
+    "unit": [
+      {
+        "id": 337,
+        "unit_id": 13,
+        "product_id": 226,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "600",
+        "marked_price": "600",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 128,
+            "product_unit_price_id": 337,
+            "warehouse_id": 1,
+            "product_id": 226,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:48:35",
+            "updated_at": "2020-10-15 09:38:29"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 155,
+        "icon": null,
+        "title": "Oil & Ghee",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 154,
+        "slug": "uzq9-oil-ghee-cpd8",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-06 14:48:35",
+        "updated_at": "2020-10-06 14:48:35",
+        "type": "category",
+        "pivot": {
+          "product_id": 226,
+          "product_category_id": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Dhara Health Sun Flower Oil 1 Ltr",
+    "slug": "ahqb-dhara-health-sun-flower-oil-1-ltr-1309-fmfb",
+    "status": true,
+    "unit": [
+      {
+        "id": 336,
+        "unit_id": 13,
+        "product_id": 225,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "260",
+        "marked_price": "260",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 127,
+            "product_unit_price_id": 336,
+            "warehouse_id": 1,
+            "product_id": 225,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:48:35",
+            "updated_at": "2020-10-19 13:44:45"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 155,
+        "icon": null,
+        "title": "Oil & Ghee",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 154,
+        "slug": "uzq9-oil-ghee-cpd8",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-06 14:48:35",
+        "updated_at": "2020-10-06 14:48:35",
+        "type": "category",
+        "pivot": {
+          "product_id": 225,
+          "product_category_id": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Dhara Health Sun Flower Oil 1 Ltr",
+    "slug": "lo6o-dhara-health-sun-flower-oil-1-ltr-13745-7ubb",
+    "status": true,
+    "unit": [
+      {
+        "id": 338,
+        "unit_id": 13,
+        "product_id": 227,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "210",
+        "marked_price": "210",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 129,
+            "product_unit_price_id": 338,
+            "warehouse_id": 1,
+            "product_id": 227,
+            "quantity": 104,
+            "always_available": false,
+            "created_at": "2020-10-06 14:49:20",
+            "updated_at": "2020-10-19 14:59:48"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 155,
+        "icon": null,
+        "title": "Oil & Ghee",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 154,
+        "slug": "uzq9-oil-ghee-cpd8",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-06 14:48:35",
+        "updated_at": "2020-10-06 14:48:35",
+        "type": "category",
+        "pivot": {
+          "product_id": 227,
+          "product_category_id": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Pound Cake",
+    "slug": "pbbi-pound-cake-pound-cake1-absd",
+    "status": true,
+    "unit": [
+      {
+        "id": 339,
+        "unit_id": 13,
+        "product_id": 228,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "500",
+        "marked_price": "500",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 130,
+            "product_unit_price_id": 339,
+            "warehouse_id": 1,
+            "product_id": 228,
+            "quantity": 101,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 14:59:51"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 145,
+        "icon": null,
+        "title": "Cake",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 130,
+        "slug": "zkpq-cake-gsdq",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-06 08:38:07",
+        "updated_at": "2020-08-06 08:38:07",
+        "type": "category",
+        "pivot": {
+          "product_id": 228,
+          "product_category_id": 145
+        }
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Yellow Butter Cake",
+    "slug": "t7sj-yellow-butter-cake-yellow-butter-cake1-vnrg",
+    "status": true,
+    "unit": [
+      {
+        "id": 340,
+        "unit_id": 12,
+        "product_id": 229,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "150",
+        "marked_price": "150",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 131,
+            "product_unit_price_id": 340,
+            "warehouse_id": 1,
+            "product_id": 229,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 145,
+        "icon": null,
+        "title": "Cake",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 130,
+        "slug": "zkpq-cake-gsdq",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-06 08:38:07",
+        "updated_at": "2020-08-06 08:38:07",
+        "type": "category",
+        "pivot": {
+          "product_id": 229,
+          "product_category_id": 145
+        }
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "title": "CSK APPLE SONA MANSULI RICE 25KG",
+    "slug": "e4bw-csk-apple-sona-mansuli-rice-25kg-csk-apple-sona-mansuli-rice-25kg1-wq0v",
+    "status": true,
+    "unit": [
+      {
+        "id": 342,
+        "unit_id": 6,
+        "product_id": 231,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "185",
+        "marked_price": "185",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 133,
+            "product_unit_price_id": 342,
+            "warehouse_id": 1,
+            "product_id": 231,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 115,
+        "icon": null,
+        "title": "MANSULI RICE",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "amrs-mansuli-rice-46wc",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 231,
+          "product_category_id": 115
+        }
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "title": "S.N.G SONA MANSULI RICE 30 KG",
+    "slug": "kun3-sng-sona-mansuli-rice-30-kg-sng-sona-mansuli-rice-30-kg1-ik3h",
+    "status": true,
+    "unit": [
+      {
+        "id": 343,
+        "unit_id": 6,
+        "product_id": 232,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "1400",
+        "marked_price": "1400",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 134,
+            "product_unit_price_id": 343,
+            "warehouse_id": 1,
+            "product_id": 232,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 115,
+        "icon": null,
+        "title": "MANSULI RICE",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "amrs-mansuli-rice-46wc",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 232,
+          "product_category_id": 115
+        }
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "title": "MITHAS PREMIUM RESERVE RICE 20KG",
+    "slug": "f7m2-mithas-premium-reserve-rice-20kg-mithas-premium-reserve-rice-20kg1-cqya",
+    "status": true,
+    "unit": [
+      {
+        "id": 344,
+        "unit_id": 6,
+        "product_id": 233,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "900",
+        "marked_price": "900",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 135,
+            "product_unit_price_id": 344,
+            "warehouse_id": 1,
+            "product_id": 233,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 116,
+        "icon": null,
+        "title": "LONG GRAIN RICE-REGULAR",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "irk0-long-grain-rice-regular-pzt1",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 233,
+          "product_category_id": 116
+        }
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "title": "HARPAL GALAXY INDIAN RICE 20KG",
+    "slug": "o0zs-harpal-galaxy-indian-rice-20kg-harpal-galaxy-indian-rice-20kg1-hs00",
+    "status": true,
+    "unit": [
+      {
+        "id": 345,
+        "unit_id": 6,
+        "product_id": 234,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "800",
+        "marked_price": "800",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 136,
+            "product_unit_price_id": 345,
+            "warehouse_id": 1,
+            "product_id": 234,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 116,
+        "icon": null,
+        "title": "LONG GRAIN RICE-REGULAR",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "irk0-long-grain-rice-regular-pzt1",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 234,
+          "product_category_id": 116
+        }
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "title": "ARATI PREMIUM RICE 20KG",
+    "slug": "fzsg-arati-premium-rice-20kg-arati-premium-rice-20kg1-7a3f",
+    "status": true,
+    "unit": [
+      {
+        "id": 346,
+        "unit_id": 6,
+        "product_id": 235,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "700",
+        "marked_price": "700",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 137,
+            "product_unit_price_id": 346,
+            "warehouse_id": 1,
+            "product_id": 235,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 116,
+        "icon": null,
+        "title": "LONG GRAIN RICE-REGULAR",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "irk0-long-grain-rice-regular-pzt1",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 235,
+          "product_category_id": 116
+        }
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "title": "KOPILA SONA MANSULI RICE 30 KG",
+    "slug": "vpjz-kopila-sona-mansuli-rice-30-kg-kopila-sona-mansuli-rice-30-kg1-hbye",
+    "status": true,
+    "unit": [
+      {
+        "id": 347,
+        "unit_id": 6,
+        "product_id": 236,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "1000",
+        "marked_price": "1000",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 138,
+            "product_unit_price_id": 347,
+            "warehouse_id": 1,
+            "product_id": 236,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 14:54:43"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 115,
+        "icon": null,
+        "title": "MANSULI RICE",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "amrs-mansuli-rice-46wc",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 236,
+          "product_category_id": 115
+        }
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "title": "DHARA HEALTH SUN FLOWER OIL 1L",
+    "slug": "qsyg-dhara-health-sun-flower-oil-1l-dhara-health-sun-flower-oil-1l1-85az",
+    "status": true,
+    "unit": [
+      {
+        "id": 348,
+        "unit_id": 6,
+        "product_id": 237,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "150",
+        "marked_price": "150",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 139,
+            "product_unit_price_id": 348,
+            "warehouse_id": 1,
+            "product_id": 237,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 118,
+        "icon": null,
+        "title": "SUNFLOWER OIL-LOCAL",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 117,
+        "slug": "fzqd-sunflower-oil-local-y2y5",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 237,
+          "product_category_id": 118
+        }
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "title": "SUN FLOW SUNFLOWER OIL 1L",
+    "slug": "swqg-sun-flow-sunflower-oil-1l-sun-flow-sunflower-oil-1l1-xj7n",
+    "status": true,
+    "unit": [
+      {
+        "id": 349,
+        "unit_id": 6,
+        "product_id": 238,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "140",
+        "marked_price": "140",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 140,
+            "product_unit_price_id": 349,
+            "warehouse_id": 1,
+            "product_id": 238,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 14:54:43"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 118,
+        "icon": null,
+        "title": "SUNFLOWER OIL-LOCAL",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 117,
+        "slug": "fzqd-sunflower-oil-local-y2y5",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 238,
+          "product_category_id": 118
+        }
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "title": "SHAKTI SOYABEAN OIL POUCH 1LTR",
+    "slug": "ekyr-shakti-soyabean-oil-pouch-1ltr-shakti-soyabean-oil-pouch-1ltr1-pqou",
+    "status": true,
+    "unit": [
+      {
+        "id": 350,
+        "unit_id": 9,
+        "product_id": 239,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "200",
+        "marked_price": "200",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 141,
+            "product_unit_price_id": 350,
+            "warehouse_id": 1,
+            "product_id": 239,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 119,
+        "icon": null,
+        "title": "SOYA OIL",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 117,
+        "slug": "6ruq-soya-oil-2bei",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-15 11:11:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 239,
+          "product_category_id": 119
+        }
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "title": "GYAN MAIDA 2KG",
+    "slug": "7kma-gyan-maida-2kg-gyan-maida-2kg1-hm5a",
+    "status": true,
+    "unit": [
+      {
+        "id": 351,
+        "unit_id": 6,
+        "product_id": 240,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "120",
+        "marked_price": "120",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 142,
+            "product_unit_price_id": 351,
+            "warehouse_id": 1,
+            "product_id": 240,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 14:54:43"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 121,
+        "icon": null,
+        "title": "MAIDA",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 120,
+        "slug": "o1yl-maida-xbd5",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-15 11:11:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 240,
+          "product_category_id": 121
+        }
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "title": "DETTOL ORIGINAL LIQUID HANDWASH 200ML CP",
+    "slug": "z5pd-dettol-original-liquid-handwash-200ml-cp-dettol-original-liquid-handwash-200ml-cp1-rkpu",
+    "status": true,
+    "unit": [
+      {
+        "id": 352,
+        "unit_id": 6,
+        "product_id": 241,
+        "package_type_id": null,
+        "old_price": "220",
+        "new_price": "200",
+        "cost_price": null,
+        "selling_price": "220",
+        "marked_price": "220",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 143,
+            "product_unit_price_id": 352,
+            "warehouse_id": 1,
+            "product_id": 241,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:29"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 157,
+        "icon": null,
+        "title": "HAND WASH",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 151,
+        "slug": "spo1-hand-wash-vpu8",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-06 14:50:21",
+        "updated_at": "2020-10-06 14:50:21",
+        "type": "category",
+        "pivot": {
+          "product_id": 241,
+          "product_category_id": 157
+        }
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "title": "ND'S FRESH REGULAR MILK 500ML",
+    "slug": "dmq6-nds-fresh-regular-milk-500ml-nds-fresh-regular-milk-500ml1-ibui",
+    "status": true,
+    "unit": [
+      {
+        "id": 354,
+        "unit_id": 6,
+        "product_id": 243,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "150",
+        "marked_price": "150.00",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 145,
+            "product_unit_price_id": 354,
+            "warehouse_id": 1,
+            "product_id": 243,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-21 13:34:06"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 129,
+        "icon": null,
+        "title": "FRESH CREAMS & MILKS",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 127,
+        "slug": "bgev-fresh-creams-milks-778z",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-15 11:11:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 243,
+          "product_category_id": 129
+        }
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "title": "CRUMBS WHITE BREAD 400GM",
+    "slug": "gi6m-crumbs-white-bread-400gm-crumbs-white-bread-400gm1-p6c2",
+    "status": true,
+    "unit": [
+      {
+        "id": 355,
+        "unit_id": 6,
+        "product_id": 244,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "100",
+        "marked_price": "100",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 146,
+            "product_unit_price_id": 355,
+            "warehouse_id": 1,
+            "product_id": 244,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-19 14:54:44"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 132,
+        "icon": null,
+        "title": "WHITE BREADS",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 131,
+        "slug": "0lee-white-breads-exes",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:56",
+        "updated_at": "2020-05-15 11:11:56",
+        "type": "category",
+        "pivot": {
+          "product_id": 244,
+          "product_category_id": 132
+        }
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Breadstick",
+    "slug": "oyxa-breadstick-breadstick1-wpgm",
+    "status": true,
+    "unit": [
+      {
+        "id": 356,
+        "unit_id": 12,
+        "product_id": 245,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "250",
+        "marked_price": "250",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 147,
+            "product_unit_price_id": 356,
+            "warehouse_id": 1,
+            "product_id": 245,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:29"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 143,
+        "icon": null,
+        "title": "Bread",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 130,
+        "slug": "amdk-bread-pkmd",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-06 08:38:06",
+        "updated_at": "2020-08-06 08:38:06",
+        "type": "category",
+        "pivot": {
+          "product_id": 245,
+          "product_category_id": 143
+        }
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Banana Bread",
+    "slug": "ajss-banana-bread-banana-bread1-6l37",
+    "status": true,
+    "unit": [
+      {
+        "id": 357,
+        "unit_id": 12,
+        "product_id": 246,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "200",
+        "marked_price": "200",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 148,
+            "product_unit_price_id": 357,
+            "warehouse_id": 1,
+            "product_id": 246,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:29"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 143,
+        "icon": null,
+        "title": "Bread",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 130,
+        "slug": "amdk-bread-pkmd",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-06 08:38:06",
+        "updated_at": "2020-08-06 08:38:06",
+        "type": "category",
+        "pivot": {
+          "product_id": 246,
+          "product_category_id": 143
+        }
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Red Velvet Cake",
+    "slug": "60tc-red-velvet-cake-red-velvet-cakes1-8vto",
+    "status": true,
+    "unit": [
+      {
+        "id": 359,
+        "unit_id": 13,
+        "product_id": 248,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "600",
+        "marked_price": "600",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 150,
+            "product_unit_price_id": 359,
+            "warehouse_id": 1,
+            "product_id": 248,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 145,
+        "icon": null,
+        "title": "Cake",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 130,
+        "slug": "zkpq-cake-gsdq",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-08-06 08:38:07",
+        "updated_at": "2020-08-06 08:38:07",
+        "type": "category",
+        "pivot": {
+          "product_id": 248,
+          "product_category_id": 145
+        }
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "title": "BHANSAGHAR PREMIUM LONG GRAIN RICE 20KG",
+    "slug": "jcbh-bhansaghar-premium-long-grain-rice-20kg-bhansaghar-premium-long-grain-rice-20kg1-ohrj",
+    "status": true,
+    "unit": [
+      {
+        "id": 360,
+        "unit_id": 6,
+        "product_id": 249,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "300",
+        "marked_price": "300",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 151,
+            "product_unit_price_id": 360,
+            "warehouse_id": 1,
+            "product_id": 249,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 116,
+        "icon": null,
+        "title": "LONG GRAIN RICE-REGULAR",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 114,
+        "slug": "irk0-long-grain-rice-regular-pzt1",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-05-15 11:11:55",
+        "updated_at": "2020-05-15 11:11:55",
+        "type": "category",
+        "pivot": {
+          "product_id": 249,
+          "product_category_id": 116
+        }
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "title": "LIFEBUOY SOAP TOTAL 100GM",
+    "slug": "kd5n-lifebuoy-soap-total-100gm-lifebuoy-soap-total-100gm1-l7zr",
+    "status": true,
+    "unit": [
+      {
+        "id": 358,
+        "unit_id": 6,
+        "product_id": 247,
+        "package_type_id": null,
+        "old_price": null,
+        "new_price": null,
+        "cost_price": null,
+        "selling_price": "30",
+        "marked_price": "30",
+        "status": true,
+        "is_default": true,
+        "created_at": null,
+        "updated_at": null,
+        "deleted_at": null,
+        "sku": null,
+        "size": "",
+        "barcode": null,
+        "unit_stocks": [
+          {
+            "id": 149,
+            "product_unit_price_id": 358,
+            "warehouse_id": 1,
+            "product_id": 247,
+            "quantity": 100,
+            "always_available": false,
+            "created_at": "2020-10-06 14:50:21",
+            "updated_at": "2020-10-15 09:38:28"
+          }
+        ]
+      }
+    ],
+    "hasOffer": false,
+    "category": [
+      {
+        "id": 158,
+        "icon": null,
+        "title": "BATHING SOAP BAR",
+        "description": null,
+        "status": true,
+        "position": 0,
+        "parent_id": 151,
+        "slug": "5n3a-bathing-soap-bar-u9nh",
+        "warehouse_id": null,
+        "features": false,
+        "created_at": "2020-10-06 14:50:21",
+        "updated_at": "2020-10-06 14:50:21",
+        "type": "category",
+        "pivot": {
+          "product_id": 247,
+          "product_category_id": 158
+        }
+      }
+    ]
+  }
+]
