@@ -23,8 +23,5 @@ describe('system ', () => {
         loginObj.extractInactiveProduct()
         loginObj.coupons();
         loginObj.extractActiveCoupon()
-
     })
-
-
 })
